@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "WapBorhan",
+        "label": "SR Dark - Peace of the eye",
         "uiTheme": "vs-dark",
-        "path": "./themes/WapBorhan-color-theme.json"
+        "path": "./themes/Peace-of-the-eye.json"
       }
     ]
   }
