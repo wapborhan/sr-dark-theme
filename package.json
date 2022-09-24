@@ -1,0 +1,21 @@
+{
+  "name": "sr-dark-theme",
+  "displayName": "SR Dark Theme",
+  "description": "SR Dream Lab Official Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WapBorhan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WapBorhan-color-theme.json"
+      }
+    ]
+  }
+}
