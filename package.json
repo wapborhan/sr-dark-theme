@@ -2,7 +2,8 @@
   "name": "sr-dark-theme",
   "displayName": "SR Dark Theme",
   "description": "SR Dream Lab Official Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/logo.png",
   "publisher": "SRDreamLab",
   "repository": {
     "type": "git",
