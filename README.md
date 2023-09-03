@@ -14,7 +14,7 @@
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace].
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SRDreamLab.sr-dark-theme).
 
 ### Prerequisites
 
